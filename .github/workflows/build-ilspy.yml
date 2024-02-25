@@ -1,6 +1,6 @@
 name: Build ILSpy
 
-on:
+on: workflow_dispatch
   push:
     branches: '**'
   pull_request:
